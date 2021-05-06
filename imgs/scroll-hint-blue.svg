@@ -1,3 +1,7 @@
-<svg width="40" height="40" viewBox="0 0 40 40" fill="none" xmlns="http://www.w3.org/2000/svg">
-<path d="M1 37L20 16L39 37" stroke="#0000D8" stroke-width="2"/>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="40px" height="40px" viewBox="0 0 40 40" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Artboard Copy</title>
+    <g id="Artboard-Copy" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <polyline id="Path" stroke="#1A1A1A" stroke-width="3" transform="translate(20.500000, 20.500000) scale(-1, -1) translate(-20.500000, -20.500000) " points="13 17.0556553 20.4976836 24 28 17"></polyline>
+    </g>
 </svg>
