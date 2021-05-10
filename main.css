@@ -274,10 +274,10 @@ a:visited {
 	align-items: center;
 }
 
-@media (max-width: 1360px) {
+@media (max-width: 1600px) {
 
 
-	#header-page {
+	#nav-widget {
 		display: none;
 	}
 }
