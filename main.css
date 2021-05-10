@@ -276,7 +276,6 @@ a:visited {
 
 @media (max-width: 1600px) {
 
-
 	#nav-widget {
 		display: none;
 	}
@@ -336,49 +335,6 @@ a:visited {
    color: var(--black);
    mix-blend-mode: difference;
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-/*  */
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
