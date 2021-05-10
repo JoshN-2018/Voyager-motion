@@ -1,0 +1,23 @@
+{
+  "name": "anim-preview",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "sergey",
+    "dev": "sergey --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JoshN-2018/Voyager-motion.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "sergey": "0.0.13"
+  }
+}
