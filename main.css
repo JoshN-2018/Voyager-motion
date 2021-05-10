@@ -274,12 +274,17 @@ a:visited {
 	align-items: center;
 }
 
-
 @media (max-width: 1360px) {
 
-   #nav-widget {
+
+	#header-page {
 		display: none;
-   }
+	}
+}
+
+
+@media (max-width: 1001px) {
+
 
 	#header-page {
 		display: none;
@@ -294,7 +299,7 @@ a:visited {
 	}
 }
 
-@media (min-width: 1359px) {
+@media (min-width: 1000px) {
 
 	.warning-block {
 		display: none;
