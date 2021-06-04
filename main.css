@@ -11,6 +11,7 @@ html {
   box-sizing: border-box;
   color: var(--black);
   background-color: var(--grey);
+  scroll-behavior: smooth;
 }
 
 *, *:before, *:after {

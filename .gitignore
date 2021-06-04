@@ -1,5 +1,6 @@
 public
 node_modules
 package-lock.json
+spec-videos/ignore
 **/.DS_Store
 .env
