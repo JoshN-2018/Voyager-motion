@@ -1,7 +1,7 @@
 
 /* Global */
 :root {
-  --brand: #0072DA;
+  --brand: #0073E0;
   --white: #FFFFFF;
   --black: #222222;
   --grey: #f8f8f8;
@@ -63,6 +63,15 @@ html {
 .black {
 	color: var(--black);
 }
+
+.blue {
+	color: var(--brand);
+}
+
+.bgblue {
+	background-color: var(--brand);
+}
+
 
 
 
@@ -225,15 +234,15 @@ a:visited {
 }
 
 .scale-50 {
-   /* transform: scale(0.5); */
-   /* transform: translate(50%, 0px); */
    width: 50%;
 }
 
 .scale-25 {
-   /* transform: scale(0.5); */
-   /* transform: translate(50%, 0px); */
    width: 25%;
+}
+
+.scale-30 {
+   width: 33.3%;
 }
 
 .video-fill {
@@ -338,10 +347,11 @@ a:visited {
 }
 
 
+/* custom hacks */
 
-
-
-
+.grow {
+   flex-shrink: 1;
+}
 
 
 
