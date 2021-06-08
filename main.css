@@ -12,6 +12,9 @@ html {
   color: var(--black);
   background-color: var(--grey);
   scroll-behavior: smooth;
+  font-family: frutiger-regular, sans-serif;
+  font-size: 1rem; /* 16px */
+  line-height: 1.5;
 }
 
 *, *:before, *:after {
