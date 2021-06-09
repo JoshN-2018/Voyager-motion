@@ -1,6 +1,6 @@
 public
 node_modules
 package-lock.json
-spec-videos/ignore
+spec-videos/drop-zone
 **/.DS_Store
 .env
