@@ -5,6 +5,7 @@
   --white: #FFFFFF;
   --black: #222222;
   --grey: #f8f8f8;
+  --grey-text: #737373;
 }
 
 html {
@@ -66,6 +67,11 @@ html {
 .black {
 	color: var(--black);
 }
+
+.grey {
+	color: var(--grey-text);
+}
+
 
 .blue {
 	color: var(--brand);
