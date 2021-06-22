@@ -81,6 +81,10 @@ html {
 	background-color: var(--brand);
 }
 
+.bold {
+	font-family: frutiger-bold, sans-serif;
+}
+
 
 
 
