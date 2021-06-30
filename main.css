@@ -247,9 +247,14 @@ a:visited {
 	margin-bottom: 12px;
 }
 
+.scale-75 {
+   width: 75%;
+}
+
 .scale-50 {
    width: 50%;
 }
+
 
 .scale-25 {
    width: 25%;
@@ -257,6 +262,14 @@ a:visited {
 
 .scale-30 {
    width: 33.3%;
+}
+
+.divider {
+   margin-right: 200px;
+}
+
+.portrait-max-width {
+   max-width: 400px;
 }
 
 .video-fill {
