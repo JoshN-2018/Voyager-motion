@@ -350,7 +350,7 @@ a:visited {
 /* nav widget */
 #nav-widget {
    position: fixed;
-   bottom: calc(50vh - (30px * 4));
+   bottom: calc(50vh - ((39.6px * 13)/2));
    left: 40px;
    max-width: 200px;
 }
